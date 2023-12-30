@@ -1,0 +1,10 @@
+#navbar{
+  display: flex;
+  justify-content: space-around;
+
+}
+
+#m-t{
+  margin-top: 35px;
+  margin-bottom: 35px;
+}

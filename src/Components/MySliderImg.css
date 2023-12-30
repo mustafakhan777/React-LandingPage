@@ -1,0 +1,18 @@
+#bgimg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url("../assets/img/bg-masthead.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height: 65vh; */
+}
+
+#sliderPara{
+    color: white;
+    font-weight: bolder;
+    font-size: 28px;
+
+}
